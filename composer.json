@@ -1,0 +1,7 @@
+{
+    "name": "demo/laravel-task-manager",
+    "description": "Lightweight demo Laravel-style project (no vendor).",
+    "require": {
+        "php": ">=8.1"
+    }
+}
