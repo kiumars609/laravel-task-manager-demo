@@ -19,8 +19,8 @@ This is a demo Laravel project. To run locally (requires PHP, Composer, and a da
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/<repo>.git
-cd <repo>
+git clone https://github.com/kiumars609/laravel-task-manager-demo.git
+cd laravel-task-manager-demo
 ```
 
 2. Install dependencies:
